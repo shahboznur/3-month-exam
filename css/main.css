@@ -1,0 +1,14 @@
+body {
+  background-image: url("../img/pizza-bg.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pizza__top-list {
+  height: 100px;
+}
+
+.pizza__button-list {
+  height: 45px;
+}
+
